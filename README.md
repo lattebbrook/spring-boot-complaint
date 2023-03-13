@@ -1,1 +1,0 @@
-cd ~/workspace/ssw_complaint/ && docker build -t arnut/ssw-complaint:1.0 . && docker run -p 9090:9090 arnut/ssw-complaint:1.0 
